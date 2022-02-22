@@ -1,4 +1,6 @@
- console.log("Olá Brasil!")
+<iframe src="https://tech.io/snippet-widget/JTrWU6i" width="100%" frameborder="0" scrolling="no" allowtransparency="true" style="visibility:hidden">
+</iframe>
+<script>if(void 0===window.techioScriptInjected){window.techioScriptInjected=!0;var script=document.createElement("script");script.src="https://files.codingame.com/codingame/iframe-v-1-4.js",(document.head||document.body).appendChild(script)}</script>
 // console.log(10+5)
 
 // alert("Argentina campeã de xadrez!")
