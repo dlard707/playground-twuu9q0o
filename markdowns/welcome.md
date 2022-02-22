@@ -1,4 +1,4 @@
-// console.log("Olá Brasil!")
+ console.log("Olá Brasil!")
 // console.log(10+5)
 
 // alert("Argentina campeã de xadrez!")
@@ -6,11 +6,7 @@
 
 //comentário de linha simples
 // comentário de múltiplas linhas
-/*
-t.g.i. mcscratchy's skanks for nothing mono = one dollareydoos i kicked a giant mouse in the butt mobilomobile doodily parents' island dead serious about groin-grabbingly just like in real life four krustys redorkulated paradigm lamarella that's why your robot never worked eat our shirts totally outrageous paradigm needs more dog chestal jebeditis telepanhandling unfaceuptoable foodbag she. u.i. scientician frinkahedron eyeball stew bagzooka throughhole lamarella ketchup here's vanessa williams cromulent dorkus molorkus lupper suck like a fox pointy kitty megacide glavin skittlebrau embiggen craptacular johnny lunchpail meh suck shack my children need wine groin-grabbingly knifey spooney mazuma scratchtasia purple is a fruit sally housecoat the whipped group glavin deceleratrix speedholes that's why your robot never worked okely dokely smuggled vegetables and all who dwell within this rocket house dead serious about bovine university reverse vampires spiritual de-pantsing dirty, maybe. dangerous, hardly. liberty log purple is a fruit clouseauesque forfty
-*/
-// t.g.i. mcscratchy's skanks for nothing mono = one dollareydoos i kicked a giant mouse in the butt mobilomobile doodily parents' island dead serious about groin-grabbingly just like in real life four krustys redorkulated paradigm lamarella that's why your robot never worked eat our shirts totally outrageous paradigm needs more dog chestal jebeditis telepanhandling unfaceuptoable foodbag she. u.i. scientician frinkahedron eyeball stew bagzooka throughhole lamarella ketchup here's vanessa williams cromulent dorkus molorkus lupper suck like a fox pointy kitty megacide glavin skittlebrau embiggen craptacular johnny lunchpail meh suck shack my children need wine groin-grabbingly knifey spooney mazuma scratchtasia purple is a fruit sally housecoat the whipped group glavin deceleratrix speedholes that's why your robot never worked okely dokely smuggled vegetables and all who dwell within this rocket house dead serious about bovine university reverse vampires spiritual de-pantsing dirty, maybe. dangerous, hardly. liberty log purple is a fruit clouseauesque forfty
-// console.log("Hello Simpson!")
+
 
 // tres formas de escrever variáveis: var, let e const
 
